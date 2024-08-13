@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  4 08:41:42 2024
-
-@author: mosope
-"""
-
 import csv
 
 class PatientInformationSystem:
